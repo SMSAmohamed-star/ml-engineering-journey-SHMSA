@@ -62,7 +62,12 @@ Analogy 2: The Speed Boost
 Think of an endless runner video game where your character drives a motorcycle. Scattered across the track are glowing "speed pads."
 Your motorcycle has a movement vector (your speed and forward direction). The speed pad also has a directional vector pointing straight down the track. If you drive over the pad perfectly aligned with its direction, the dot product is maximized, and you receive the full speed boost. If you hit the pad at a sharp angle, your alignment is poor, and the boost is significantly weaker. And crucially, if you stand perfectly still on the pad (your magnitude is zero), you receive no boost at all. A vector relationship requires existing motion to amplify it.
 Conclusion
-Vectors are far more than abstract arrows or rigid lists of numbers. They are the mathematical translators of reality. By combining the physical necessity of magnitude and direction with the computational power of ordered data, vectors allow artificial intelligence to map out relationships, understand environments, and ultimately, learn.If the panel is tilted exactly $90^\circ$ (perpendicular to the sun), $\cos(90^\circ) = 0$
+Vectors are far more than abstract arrows or rigid lists of numbers. They are the mathematical translators of reality. By combining the physical necessity of magnitude and direction with the computational power of ordered data, vectors allow artificial intelligence to map out relationships, understand environments, and ultimately, learn.If the panel is tilted exactly 
+
+$
+90^\circ$ (perpendicular to the sun), $\cos(90^\circ) = 0
+$
+
 and no direct light hits the face of the panel.
 Analogy 2: The Speed Boost
 Think of an endless runner video game where your character drives a motorcycle. Scattered across the track are glowing "speed pads."
