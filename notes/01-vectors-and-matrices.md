@@ -46,7 +46,7 @@ To maximize energy collection, the panel must face the sun directly.
 In vector terms, we look at the "normal vector" (an imaginary arrow pointing perfectly straight out of the panel's surface) and the vector of the incoming sunlight.
 When the panel directly faces the sun, these two vectors are perfectly aligned, meaning the angle between them is 0^\circ. Since \cos(0) = 1, the dot product is at its absolute maximum. 
 If you rotate the panel, the angle increases, the effective surface area exposed to the light decreases, and the dot product shrinks.
-If the panel is tilted exactly 90^\circ (perpendicular to the sun), \cos(90) = 0, and no direct light hits the face of the panel.
+If the panel is tilted exactly $90^\circ$ (perpendicular to the sun), $\cos(90^\circ) = 0$, and no direct light hits the face of the panel.
 Analogy 2: The Speed Boost
 Think of an endless runner video game where your character drives a motorcycle. Scattered across the track are glowing "speed pads."
 Your motorcycle has a movement vector (your speed and forward direction). 
