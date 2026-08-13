@@ -34,7 +34,11 @@ This structured format allows GPUs to perform billions of operations—like line
 3. The Math Behind the Magic: Measuring Relationships
 The real world is not just a collection of isolated objects; it is a web of relationships. How do we mathematically represent the influence of one variable on another? We use the Dot Product (or scalar product).
 The dot product measures how much two vectors align with one another. Mathematically, it is defined as:
-$$ \vec{A} \cdot \vec{B} = |\vec{A}| |\vec{B}| \cos(\theta) $$
+
+$$
+\vec{A} \cdot \vec{B} = |\vec{A}| |\vec{B}| \cos(\theta)
+$$
+
 Where theta is the angle between the two vectors.
 Analogy 1: The Solar Panel
 Consider a flat solar panel designed to collect energy from the sun.
